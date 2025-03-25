@@ -96,3 +96,12 @@ nav{display:block}
 
 .menu li{display: inline-block}
 }
+
+@media (min-width: 900px)
+{
+body{background-color: orange;}
+
+.card{width: 30%;
+vertical-align: center;
+height: 100%;}
+}
